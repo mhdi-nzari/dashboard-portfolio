@@ -38,7 +38,7 @@ console.log(itemSideBarMenu);
 
 //  fetch product data 
 async function logJSONData() {
-  const response = await fetch("http://fakestoreapi.com/products");
+  const response = await fetch("https://fakestoreapi.com/products");
   const jsonData = await response.json();
 
   const clearItem = jsonData.slice(0, 10);
