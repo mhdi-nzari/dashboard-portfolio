@@ -1,9 +1,8 @@
-# admin dashboard panel
+# React Responsive Gym Website with React js | Framer Motion | React-scroll | Emailjs
 
-## 🪶 Lightmode Version
-![admin dashboard panel lightmode , mahdi nazari](https://github.com/mhdi-nzari/dashboard-portfolio/blob/main/lightmode.png?raw=true)
+## 💪 Preview Version
+![eact Responsive Gym Website , mahdi nazari](https://github.com/mhdi-nzari/dashboard-portfolio/blob/main/lightmode.png?raw=true)
 
-## 🪶 Darkmode Version
-![admin dashboard panel darkmode , mahdi nazari](https://github.com/mhdi-nzari/dashboard-portfolio/blob/main/darkmode.png)
+
 
 
